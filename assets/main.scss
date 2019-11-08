@@ -1,0 +1,45 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.construction { width:100%; text-align: center;}
+
+body { background-color: #eeedff;
+       color: #5b5b76; }
+
+a { color: #936c92 }
+a:visited { color: #927197 }
+a:hover { color: #d27c95 }
+
+.wrapper {
+  height: 86px;
+  position: relative;
+}
+
+.site-header h1 {
+  font-size: 56px;
+  background: -webkit-linear-gradient(#d27c95,#ff9784, #ffc36e, #f9f871);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.main-site-link { float: left;}
+
+.site-header { background: #6c6383; }
+
+.site-header a { color: #ffc36e }
+.site-header a:visited { color: #ff9784 }
+.site-header a:hover { color: #f9f871 }
+
+.site-nav {
+  position: absolute;
+  bottom: 18px;
+  right: 0;
+  line-height: inherit
+}
+
+.main-site-link {
+  position: absolute;
+}
