@@ -16,8 +16,3 @@ IDK if I'll work more on it. In the meantime, check out...
  * <a href="https://github.com/emhoracek">My open source (code) projects</a>
  * A minimal <a href="https://spot-barge.glitch.me/">dice roller</a>
  * A <a href="https://docs.google.com/document/d/1kUJKZJ5AKtmYbz6AbhMSlR6--R6Q4gKfbIdOLhiWsOw/edit">one-page game about being a programmer and a possum</a> called Bug Bounty
-
-And here are some links to cool stuff:
- * <a href="">Tech Workers Coalition NYC</a>
- * <a href="">
- * <a href="">Friends at the Table</a> - a podcast I like
