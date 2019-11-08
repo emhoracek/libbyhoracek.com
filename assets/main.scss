@@ -13,33 +13,30 @@ a { color: #936c92 }
 a:visited { color: #927197 }
 a:hover { color: #d27c95 }
 
-.wrapper {
-  height: 86px;
-  position: relative;
+.site-header .wrapper {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
 }
 
 .site-header h1 {
   font-size: 56px;
+  margin-top: 15px;
+  margin-bottom: 15px;
   background: -webkit-linear-gradient(#d27c95,#ff9784, #ffc36e, #f9f871);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-.main-site-link { float: left;}
-
 .site-header { background: #6c6383; }
 
-.site-header a { color: #ffc36e }
-.site-header a:visited { color: #ff9784 }
-.site-header a:hover { color: #f9f871 }
-
 .site-nav {
-  position: absolute;
-  bottom: 18px;
-  right: 0;
-  line-height: inherit
+  margin-bottom: 20px;
 }
 
-.main-site-link {
-  position: absolute;
-}
+a:visited.my-page-link { color: #ff9784 }
+a:hover.my-page-link { color: #f9f871 }
+a.my-page-link a { color: #ffc36e }
+
+
+.wrapper:after { content: initial;}
