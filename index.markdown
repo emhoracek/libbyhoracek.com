@@ -5,6 +5,8 @@
 layout: home
 ---
 
+<img src="/assets/subwayselfie.jpg" alt="Me wearing my guillotine hoodie in the subway station" />
+
 Hi, I'm Libby. Here are some things I'd like to share:
 
  * My workplace, <a href="https://positiondev.com">Position Development</a>
