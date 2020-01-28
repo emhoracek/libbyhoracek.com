@@ -5,12 +5,6 @@
 layout: home
 ---
 
-Hi! This is my website. :D It is under construction....
-
-<div class="construction"> <img src="under_construction.gif"></div>
-
-IDK if I'll work more on it. In the meantime, check out...
-
  * My workplace, <a href="https://positiondev.com">Position Development</a>
  * My game about roller derby, <a href="http://derbydrama.com">Derby Drama</a>
  * <a href="https://github.com/emhoracek">My open source (code) projects</a>
