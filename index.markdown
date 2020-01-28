@@ -5,6 +5,8 @@
 layout: home
 ---
 
+Hi, I'm Libby. Here are some things I'd like to share:
+
  * My workplace, <a href="https://positiondev.com">Position Development</a>
  * My game about roller derby, <a href="http://derbydrama.com">Derby Drama</a>
  * <a href="https://github.com/emhoracek">My open source (code) projects</a>
