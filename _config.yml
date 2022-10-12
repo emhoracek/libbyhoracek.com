@@ -21,7 +21,7 @@
 title: Libby's website
 email: libby@libbyhoracek.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Libby's website for code, games, art?, etc
+  Libby's website for code, games, etc
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: horrorcheck
