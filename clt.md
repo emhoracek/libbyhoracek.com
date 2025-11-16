@@ -5,14 +5,20 @@ title: Greater Wheeling Community Land Trust
 
 ## Housing in the Wheeling area can be affordable for everyone. {#top}
 
-Problems Wheeling is facing:
+Wheeling is facing many problems with housing, including:
 * Homelessness
 * Increasing rents
 * Abandoned buildings
 
-A community land trust can help with these problems. 
+A community land trust or CLT can help with these problems. The CLT will create affordable housing from dilapidated buildings and promote home ownership with built-in safeguards to keep the housing affordable long-term.
 
-## What is a community land trust? 
+- [What is a communty land trust?](#what-is)
+- [Get involved](#get-involved)
+- [More resources about CLTs](#more-resources)
+- [Plan and timeline](#plan-and-timeline)
+- [FAQs](#faqs)
+
+## What is a community land trust? {#what-is}
 
 A community land trust or CLT is a non-profit that obtains land and acts as a steward of that land long-term in the interests of a community. The CLT members create policies about how their land can be used. Typically, CLTs use the land for affordable housing.
 
@@ -35,6 +41,7 @@ The membership and board will have three parts to represent different members of
 If you're interested in becoming a member or helping in any other way, please fill out the form below and we'll get in touch.
 
 <div>
+  <a name="get-involved" />
   <div class="ml-embedded" data-form="4jk3T0"></div>
 </div>
 
@@ -47,23 +54,31 @@ If you're interested in becoming a member or helping in any other way, please fi
   }
 </style>
 
-## More resources about CLTs 
+<a class="right" href="#top">Return to top</a>
+
+## More resources about CLTs {#more-resources}
 
 * [Community Land Trusts 101 presentation video](https://www.youtube.com/watch?v=mxE4tjFK0PI) (30 mins) from the Metropolitan Council in St Paul, Minnesota
 * [Short explainer video](https://www.youtube.com/watch?v=7GvdjlrPtDk) from the Community Land Trust Network (UK)
 * [Grounded Solutions Community Land Trust Technical Manual](https://groundedsolutions.org/resources/community-land-trust-technical-manual/) - Grounded Solutions has many other resources as well.
 * [Community Land Trusts as Part of a Just Transition](https://reimagineappalachia.org/wp-content/uploads/2023/06/Community-Lands-Trusts-for-a-Just-Transition.pdf) from ReImagine Appalachia
 
-## Plan and timeline
+<a  class="right" href="#top">Return to top</a>
+
+## Plan and timeline {#plan-and-timeline}
 
 - [x] Hold first interest meetings (November 2025)
+- [ ] Build relationships with local non-profits and agencies as well as regional CLTs (November-December 2025)
 - [ ] Gather initial membership and board (November-December 2025)
 - [ ] Draft bylaws (December 2025)
 - [ ] Develop a 1-year and 5-year execution plans (January 2026)
 - [ ] Develop first budget (Febuary 2026)
-- [ ] Obtain first property by April 2026
+- [ ] Obtain first property by June 2026
+- [ ] House first resident by end of 2026
 
-## FAQs 
+<a class="right" href="#top">Return to top</a>
+
+## FAQs
 
 - [Is this the same as a "land bank"?](#land-bank)
 - [Where will the money come from?](#money)
@@ -81,7 +96,7 @@ Land banks and community land trusts can work together but they aren't the same.
 The community land trust would need income from multiple sources to be sustainable. 
 
 A couple sources of revenue are built into the CLT model: 
-1. **Lease payments** - The CLT leases their land to residents, and some maintenance costs can be incorporated into this fee.
+1. **Lease payments** - The CLT leases land to home owners, and some maintenance costs can be incorporated into this fee.
 2. **Membership** - CLTs are typically membership organizations, so they can charge dues to members.
 
 In addition, a core part of a CLT is selling buildings to residents. An old building can be donated to the CLT, then the CLT members can invest sweat equity into fixing up the building. By selling the improved building to a resident, the CLT generates revenue that can be used for future projects.
@@ -93,6 +108,10 @@ All this means that the CLT can generate revenue from:
 * Skilled volunteer labor
 * Donated or discounted building supplies
 
-Money can come from federal, state, and local grants, as well as loans. Some specialized loan funds offer "patient money" with low rates to programs like community land trusts.
+The CLT can partner with local unions and technical schools since the buildings can be excellent learning opportunities for students and apprentices. 
+
+Finally, money can come from federal, state, and local grants, as well as loans. Some specialized loan funds offer "patient money" with low rates to programs like community land trusts.
 
 The value of donated items, land, and labor of can often also be considered match funds when applying for grants.
+
+<a class="right" href="#top">Return to top</a>
