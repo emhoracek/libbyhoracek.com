@@ -3,7 +3,7 @@ layout: page
 title: Greater Wheeling Community Land Trust
 ---
 
-## Housing in the Wheeling area can be affordable for everyone. 
+## Housing in the Wheeling area can be affordable for everyone. {#top}
 
 Problems Wheeling is facing:
 * Homelessness
@@ -23,15 +23,16 @@ How it could work in Wheeling:
 1. The CLT buys or is donated a dilapidated building.
 2. The CLT works with an interested resident and relevant experts to make a plan for the building.
 3. The resident buys the *building* from the CLT while the CLT retains ownership of the *land*.
-4. The resident makes monthly lease payments to the CLT and builds equity.
-5. The resident eventually sells their home to a new resident with the oversight of the CLT.
+4. The CLT and new owner work together to make the building liveable.
+4. The owner makes monthly lease payments to the CLT and continues to build equity.
+5. The owner eventually sells their home to a new resident with the oversight of the CLT.
 
 The membership and board will have three parts to represent different members of the community:
 * CLT Residents 
-* General public
-* Experts and elected officials
+* Community members
+* Relevant experts and elected officials
 
-If you're interested in becoming a member or helping in any other way, please fill out the form below.
+If you're interested in becoming a member or helping in any other way, please fill out the form below and we'll get in touch.
 
 <div>
   <div class="ml-embedded" data-form="4jk3T0"></div>
@@ -53,9 +54,21 @@ If you're interested in becoming a member or helping in any other way, please fi
 * [Grounded Solutions Community Land Trust Technical Manual](https://groundedsolutions.org/resources/community-land-trust-technical-manual/) - Grounded Solutions has many other resources as well.
 * [Community Land Trusts as Part of a Just Transition](https://reimagineappalachia.org/wp-content/uploads/2023/06/Community-Lands-Trusts-for-a-Just-Transition.pdf) from ReImagine Appalachia
 
+## Plan and timeline
+
+- [x] Hold first interest meetings (November 2025)
+- [ ] Gather initial membership and board (November-December 2025)
+- [ ] Draft bylaws (December 2025)
+- [ ] Develop a 1-year and 5-year execution plans (January 2026)
+- [ ] Develop first budget (Febuary 2026)
+- [ ] Obtain first property by April 2026
+
 ## FAQs 
 
-### Is this the same as a "land bank"?
+- [Is this the same as a "land bank"?](#land-bank)
+- [Where will the money come from?](#money)
+
+### Is this the same as a "land bank"? {#land-bank}
 
 No, a land bank is typically public entity run by a city or county that gives the government more power to manage land and hold land for future development. 
 
@@ -63,7 +76,7 @@ Community land trusts are a form of nonprofit organization that stewards land an
 
 Land banks and community land trusts can work together but they aren't the same.
 
-### Where would the money come from? 
+### Where will the money come from? {#money}
 
 The community land trust would need income from multiple sources to be sustainable. 
 
