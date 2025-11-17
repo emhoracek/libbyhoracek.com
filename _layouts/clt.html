@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include customheader.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {% for section in site.clt %}
+        <h2 id="{section.id}">{{ section.name }}</h2>
+        {{ section.content | markdownify }}
+        {% endfor %}
+      </div>
+    </main>
+  </body>
+</html>

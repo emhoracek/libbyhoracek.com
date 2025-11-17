@@ -1,0 +1,17 @@
+---
+title: Greater Wheeling Community Land Trust
+layout: base
+---
+
+{% for section in site.clt %}
+<div>
+  <a name="{{section.anchor-id}}"></a>
+  <h2>{{ section.title }}</h2>
+  {{ section.content | markdownify }}
+  <p class="right"><a href="#top">Return to top</a></p>
+</div>
+{% endfor %}
+
+<p>
+  Contact Libby with any questions - <a href="mailto:emhoracek@gmail.com">emhoracek@gmail.com</a>
+</p>
