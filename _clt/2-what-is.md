@@ -1,6 +1,7 @@
 ---
 title: What is a community land trust?
 anchor-id: what-is
+in-nav: true
 ---
 
 A community land trust or CLT is a non-profit that obtains land and acts as a steward of that land long-term in the interests of a community. The CLT members create policies about how their land can be used. Typically, CLTs use the land for affordable housing.
