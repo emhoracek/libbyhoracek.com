@@ -1,6 +1,7 @@
 ---
 title: FAQs
 anchor-id: faqs
+in-nav: true
 ---
 
 - [Is this the same as a "land bank"?](#land-bank)

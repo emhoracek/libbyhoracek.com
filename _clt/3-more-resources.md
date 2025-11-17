@@ -1,6 +1,7 @@
 ---
 title: More resources about CLTs
 anchor-id: more-resources
+in-nav: true
 ---
 
 * [Community Land Trusts 101 presentation video](https://www.youtube.com/watch?v=mxE4tjFK0PI) (30 mins) from the Metropolitan Council in St Paul, Minnesota

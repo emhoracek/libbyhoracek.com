@@ -3,6 +3,19 @@ title: Greater Wheeling Community Land Trust
 layout: base
 ---
 
+
+<div id="nav">
+  <a name="top"></a>
+  <h2>Sections</h2>
+  <ul>
+    {% for section in site.clt %}
+      {% if section.in-nav %}
+        <li><a href="#{{section.anchor-id}}">{{section.title}}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
 {% for section in site.clt %}
 <div>
   <a name="{{section.anchor-id}}"></a>
