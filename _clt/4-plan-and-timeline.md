@@ -11,4 +11,3 @@ in-nav: true
 - [ ] Develop 1-year and 5-year execution plans starting (January 2025)
 - [ ] Develop first budget by April 2026
 - [ ] Obtain first property by July 2026
-- [ ] House first resident by end of 2026
