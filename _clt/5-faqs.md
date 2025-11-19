@@ -9,7 +9,7 @@ in-nav: true
 
 ### Is this the same as a "land bank"? {#land-bank}
 
-No, a land bank is typically public entity run by a city or county that gives the government more power to manage land and hold land for future development. 
+No, a land bank is typically a public entity run by a city or county that gives the government more power to manage and hold land for future development. 
 
 Community land trusts are a form of nonprofit organization that stewards land and provides opportunity for home ownership to low-income people. 
 
